@@ -1,4 +1,4 @@
-## Olá! Sou Junior Castro, Fullstack developer!
+## Olá! I'm Junior Castro, Fullstack developer!
 <div>
   <a href="https://github.com/devcastrojunin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devcastrojunin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
