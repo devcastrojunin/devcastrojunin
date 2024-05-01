@@ -13,6 +13,8 @@
   <img align="center" alt="Junior-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Junior-Dotnet" src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img align="center" alt="Junior-Dotnet" src="https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=microsoft&logoColor=white">
   <img align="center" alt="Junior-Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img align="center" alt="Junior-RubyOnRails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
 </div>
@@ -20,6 +22,7 @@
   ##
  
 <div> 
+<a href = "https://www.linkedin.com/in/junior-castro-castro-tecnologia-em-sistemas/"><img src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:devcastrojunin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
