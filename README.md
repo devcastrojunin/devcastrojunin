@@ -22,7 +22,7 @@
   ##
  
 <div> 
-<a href = "https://www.linkedin.com/in/junior-castro-castro-tecnologia-em-sistemas"><img src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/junior-domingues-de-castro"><img src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:devcastrojunin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
